@@ -2,7 +2,7 @@
 Por: Roberto Oliveira
 
 
-Desafio 1 - Primeiras condições em kotlin.
+Desafio 1 - Suas Primeiras Condições em Kotlin
 
 Média Final do Aluno
 
