@@ -17,7 +17,7 @@ Desafio 3 - Explorando Mapas, Loops e Regras com Kotlin
 Numeral Romano
 
 
-Desafio 4 - Utilizando a Keyword Object com Orientação a Objet…
+Desafio 4 - Utilizando a Keyword Object com Orientação a Objetos (OO)
 
 Cálculo Salarial
 
